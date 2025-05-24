@@ -1,0 +1,19 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 20px;
+}
+
+.image-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.centered-image {
+  max-width: 90%;
+  height: auto;
+  border: 2px solid #ccc;
+  border-radius: 8px;
+}
